@@ -1,0 +1,27 @@
+body {
+    background-color: blueviolet;
+}
+
+@media screen and (min-width: 750px) {
+    body {
+        background-color: darkgoldenrod;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    body {
+        background-color: deeppink;
+    }
+}
+.p1 {text-align: center;
+font-size: 200%;
+color: rgb(0, 238, 255);
+border-color: black;
+border-width: 6px;
+border-style: double;
+margin-left: 30%;
+margin-right: 15%;
+
+background-color: rgb(47, 0, 255);
+
+}
